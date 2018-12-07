@@ -227,7 +227,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Window";
-            this.Text = "Form1";
+            this.Text = "Marketplace Preview Generator";
             ((System.ComponentModel.ISupportInitialize)(this.pictureResult)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
